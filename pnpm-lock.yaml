@@ -9,8 +9,8 @@ importers:
   .:
     dependencies:
       '@effect/platform':
-        specifier: ^0.82.3
-        version: 0.82.8(effect@3.17.13)
+        specifier: ^0.90.7
+        version: 0.90.7(effect@3.17.13)
       effect:
         specifier: ^3.15.2
         version: 3.17.13
@@ -69,10 +69,10 @@ packages:
     resolution: {integrity: sha512-bkFqkLhh3pMBUQQkpVgWDWq/lqzc2678eUyDlTBhRqhCHFguYYGM0Efga7tYk4TogG/3x0EEl66/OQ+WGbWB/Q==}
     engines: {node: '>=6.9.0'}
 
-  '@effect/platform@0.82.8':
-    resolution: {integrity: sha512-JEnIACWM2CfyKbf31dPzC903iF11SfiAk74Xs43Ez+n1ieQz2Ew2S/99KBbuesIKkDScLtn8PI23EBFMQiL0Ow==}
+  '@effect/platform@0.90.7':
+    resolution: {integrity: sha512-HpDnxR9KQ8gn2cJA3hsz42A3sCX/BP0NSv2F+dkW7n0ohoL9Rsfx5i1zJervuZdPz4/iOmpH9xlAOkYzXg6z0w==}
     peerDependencies:
-      effect: ^3.15.4
+      effect: ^3.17.13
 
   '@emnapi/core@1.5.0':
     resolution: {integrity: sha512-sbP8GzB1WDzacS8fgNPpHlp6C9VZe+SJP3F90W9rLemaQj2PzIuTEl1qDOYQf58YIpyjViI24y9aPWCjEzY2cg==}
@@ -240,7 +240,7 @@ packages:
     os: [win32]
 
   '@integratop/retailcrm-bot-api-schema@1.0.0':
-    resolution: {integrity: sha512-zMinC8Kn3CN3fIIwKhxypifUcYp5Uweh6yKf7AHvRyJwVrl3SV58nCIpTkMDui6SMrr5o2e+MDmNk3MdDE+NPw==, tarball: https://registry.npmjs.org/@integratop/retailcrm-bot-api-schema/-/retailcrm-bot-api-schema-1.0.0.tgz}
+    resolution: {integrity: sha512-zMinC8Kn3CN3fIIwKhxypifUcYp5Uweh6yKf7AHvRyJwVrl3SV58nCIpTkMDui6SMrr5o2e+MDmNk3MdDE+NPw==}
     engines: {node: '>= 14.21.3'}
     hasBin: true
 
@@ -954,7 +954,7 @@ snapshots:
       '@babel/helper-string-parser': 7.27.1
       '@babel/helper-validator-identifier': 7.27.1
 
-  '@effect/platform@0.82.8(effect@3.17.13)':
+  '@effect/platform@0.90.7(effect@3.17.13)':
     dependencies:
       effect: 3.17.13
       find-my-way-ts: 0.1.6
