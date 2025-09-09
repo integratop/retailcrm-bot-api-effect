@@ -1,6 +1,7 @@
 # RetailCRM Bot API Effect Client
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License](https://img.shields.io/github/license/integratop/retailcrm-bot-api-effect)](https://opensource.org/licenses/MIT)
+[![npm version](https://img.shields.io/npm/v/@integratop/retailcrm-bot-api-effect.svg)](https://www.npmjs.com/package/@integratop/retailcrm-bot-api-effect)
 
 Клиент для RetailCRM Bot API, построенный на библиотеке [Effect](https://effect.website/) для TypeScript. Предоставляет типобезопасный и функциональный интерфейс для работы с RetailCRM Bot API.
 
