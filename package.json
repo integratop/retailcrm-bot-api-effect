@@ -48,7 +48,7 @@
     "@effect/platform-node": "^0.82.0",
     "@integratop/retailcrm-bot-api-schema": "1.1.0",
     "@tim-smart/openapi-gen": "0.4.13",
-    "@types/node": "24.3.1",
+    "@types/node": "24.5.2",
     "@types/strip-comments": "2.0.4",
     "prettier": "3.6.2",
     "strip-comments": "2.0.1",
