@@ -52,7 +52,7 @@
     "@types/strip-comments": "2.0.4",
     "prettier": "3.6.2",
     "strip-comments": "2.0.1",
-    "tsdown": "0.14.2",
+    "tsdown": "0.15.4",
     "tsx": "4.20.5",
     "typescript": "5.9.2",
     "vitest": "3.2.4"
