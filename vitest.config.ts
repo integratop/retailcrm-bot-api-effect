@@ -8,6 +8,7 @@ export default defineConfig({
     testTimeout: 60_000,
     clearMocks: true,
     passWithNoTests: true,
+    setupFiles: ["dotenv/config"],
     projects: [
       {
         extends: true,
