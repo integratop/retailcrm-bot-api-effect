@@ -52,7 +52,7 @@
     "@types/node": "24.3.1",
     "@types/strip-comments": "2.0.4",
     "dotenv": "17.2.3",
-    "effect": "3.15.2",
+    "effect": "3.18.4",
     "prettier": "3.6.2",
     "strip-comments": "2.0.1",
     "tsdown": "0.14.2",
